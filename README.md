@@ -35,4 +35,5 @@ Sigue nuestras redes sociales para estar al día con nuestros últimos proyectos
 - **LinkedIn**: PENDIENTE...
 - **Web**: PENDIENTE...
 
-¡Gracias por visitar GozuCorp! Uno no puede hacerlo todo, pero juntos podemos hacer algo.
+¡Gracias por visitar GozuCorp! 
+Uno no puede hacerlo todo, pero juntos podemos hacer algo.
